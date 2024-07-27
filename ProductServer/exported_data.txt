@@ -1,0 +1,5 @@
+Product [pid=1, pno=12345, pname=¿ã×Ó, price=100.0, stock=20, pdesc=ÒÂ¿ã]
+Product [pid=2, pno=234567, pname=ÒÂ·þ, price=120.0, stock=30, pdesc=ÒÂ¿ã]
+Product [pid=3, pno=345678, pname=Ð¬×Ó, price=100.0, stock=40, pdesc=Ð¬×Ó]
+Product [pid=4, pno=567890, pname=Ã«ÒÂ, price=80.0, stock=30, pdesc=ÒÂ¿ã]
+Product [pid=8, pno=123789, pname=Ã±×Ó, price=20.0, stock=50, pdesc=Ã±×Ó]
